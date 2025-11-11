@@ -1,0 +1,4 @@
+R01|Nguyen Van A|Hanoi|0123456789|105206
+R02|Tran Thi B|Danang|0987654321|Trung@
+R03|Nguyen Quoc Trung|Da Nang|0348718657|123456
+R04|Nguyen Van Hoang Hiep|Da Nang|0345436782|789987

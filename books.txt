@@ -1,0 +1,7 @@
+B01|C++ Programming|Bjarne Stroustrup|2013|5|1
+B02|Data Structures|Mark Allen|2017|3|0
+B03|One Piece|Eiichiro Oda|1997|20|8
+B04|Doraemon|Fujiko Fujio|1969|50|0
+B05|Harry Potter|J.K.Rowling|1997|10|0
+B06|Harmless|John Doe|2020|4|0
+B07|Hello World|Zhuzhu|1992|10|0
